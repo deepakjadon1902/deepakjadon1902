@@ -18,9 +18,9 @@
 
 <p>Building modern, scalable, secure and high-performance web applications.</p>
 
-<a href="https://djportfoli0.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://djportfoli0.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/deepakjadon1902"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/deepak-jadon-612487272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deepak-jadon-612487272"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/deepakjadon___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://wa.me/919149370081"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:deepakjadon1907@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -297,17 +297,18 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://djportfoli0.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/deepakjadon1902"><img src="https://img.shields.io/badge/GitHub-deepakjadon1902-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/deepak-jadon-612487272/"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Jadon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://djportfoli0.netlify.app"><img src="https://img.shields.io/static/v1?label=Portfolio&message=djportfoli0.netlify.app&color=1f6feb&labelColor=21262d&style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/deepakjadon1902"><img src="https://img.shields.io/static/v1?label=GitHub&message=deepakjadon1902&color=30363d&labelColor=21262d&style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/>
-<a href="https://instagram.com/deepakjadon___"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/919149370081"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:deepakjadon1907@gmail.com"><img src="https://img.shields.io/badge/Gmail-deepakjadon1907-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deepak-jadon-612487272"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Deepak%20Jadon&color=0A66C2&labelColor=21262d&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/deepakjadon___"><img src="https://img.shields.io/static/v1?label=Instagram&message=deepakjadon___&color=E4405F&labelColor=21262d&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<br/>
+<a href="https://wa.me/919149370081"><img src="https://img.shields.io/static/v1?label=WhatsApp&message=%2B91%209149370081&color=25D366&labelColor=21262d&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:deepakjadon1907@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=deepakjadon1907@gmail.com&color=EA4335&labelColor=21262d&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Code.+Build.+Test.+Optimize.+Deploy.+Repeat.;Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+great+together+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=36&lines=Code.+Build.+Test.+Optimize.+Deploy.+Repeat.;Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+great+together+%F0%9F%9A%80"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer"/>
 
