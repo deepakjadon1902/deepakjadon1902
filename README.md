@@ -18,9 +18,12 @@
 
 <p>Building modern, scalable, secure and high-performance web applications.</p>
 
-<a href="https://djportfoli0.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/deepak-jadon-612487272/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:deepakjadon1907@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://djportfoli0.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/deepakjadon1902"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deepak-jadon-612487272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/deepakjadon___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/919149370081"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:deepakjadon1907@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
@@ -294,10 +297,13 @@ flowchart LR
 
 <div align="center">
 
+<a href="https://djportfoli0.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/deepakjadon1902"><img src="https://img.shields.io/badge/GitHub-deepakjadon1902-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/deepak-jadon-612487272/"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Jadon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/>
+<a href="https://instagram.com/deepakjadon___"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/919149370081"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:deepakjadon1907@gmail.com"><img src="https://img.shields.io/badge/Gmail-deepakjadon1907-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://djportfoli0.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/deepakjadon1902"><img src="https://img.shields.io/badge/GitHub-deepakjadon1902-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
@@ -348,7 +354,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: output
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---- END ----
